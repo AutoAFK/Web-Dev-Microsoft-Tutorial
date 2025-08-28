@@ -1,3 +1,3 @@
 Here I will have all my todos.
 
-[] - Commit for the first time.
+[x] - Commit for the first time.
